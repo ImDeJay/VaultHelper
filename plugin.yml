@@ -1,0 +1,13 @@
+name: Vault Helper
+main: com.gmail.dejayyy.vaultHelper.vhMain
+description: 'Vault Example!'
+version: 1.0
+author: ImDeJay
+
+commands:
+  TestPermission:
+  
+  TestEconomy:
+  
+  TestChat:
+  
